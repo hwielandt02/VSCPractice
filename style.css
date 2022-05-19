@@ -2,4 +2,12 @@ body {
     background-color: rgb(80, 26, 80);
     color: beige;
 }
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+image {
+    border: 1pt solid rgb(131, 57, 81);
+}
 /* Hanna Wielandt */
